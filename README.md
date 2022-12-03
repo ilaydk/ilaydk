@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @ilaydk as İlayda
 - 👀 I’m interested in programing
-- 🌱 I’m currently learning c#
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning C#
+- 📫 How to reach me ilaydakomu@gmail.com
 
 <!---
 ilaydk/ilaydk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
